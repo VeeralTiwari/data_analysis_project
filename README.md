@@ -19,9 +19,7 @@ The dataset includes restaurant information from Zomato in Bangalore, with the f
 
 ## Files
 
-- `Project 1 for Resume (Zomato Bangalore Order).ipynb`: The Jupyter Notebook containing all the code for data processing and analysis.
-- `location_online.csv`: A CSV file generated from the analysis, summarizing the number of restaurants by location and their online ordering availability.
-
+- `Zomato-order-analysis-jupyter.ipynb`: The Jupyter Notebook containing all the code for data processing and analysis.
 ## Technologies Used
 
 - **Python 3.11**
